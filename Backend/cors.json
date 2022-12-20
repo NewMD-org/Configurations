@@ -1,6 +1,7 @@
 {
     "exposedHeaders": "Authorization",
     "origin": [
+        "http://localhost",
         "http://localhost:3000",
         "http://localhost:3001",
         "https://newmd.eu.org",
