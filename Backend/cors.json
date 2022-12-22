@@ -5,11 +5,12 @@
         "http://localhost:3000",
         "http://localhost:3001",
         "https://newmd.eu.org",
-        "https://dev.newmd.eu.org",
+        "https://newmd-frontend-next-git-development-newmd.vercel.app",
+        "https://old.newmd.eu.org",
         "https://bypass1.newmd.eu.org",
         "https://newmd.aaaaoncloud.eu.org",
+        "https://test.aaaaoncloud.eu.org",
         "http://test.haco.tw",
-        "https://k1d1.haco.tw",
-        "https://test.aaaaoncloud.eu.org"
+        "https://k1d1.haco.tw"
     ]
 }
